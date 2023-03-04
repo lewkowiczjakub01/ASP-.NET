@@ -1,0 +1,15 @@
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.csproj.AssemblyReference.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.AssemblyInfoInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.AssemblyInfo.cs
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.csproj.CoreCompileInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\bin\Debug\net6.0\Rynek.exe
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\bin\Debug\net6.0\Rynek.deps.json
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\bin\Debug\net6.0\Rynek.runtimeconfig.json
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\bin\Debug\net6.0\Rynek.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\bin\Debug\net6.0\Rynek.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\refint\Rynek.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\Rynek.genruntimeconfig.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Technologie .NET\Rynek\Rynek\obj\Debug\net6.0\ref\Rynek.dll
