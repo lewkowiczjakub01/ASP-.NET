@@ -1,0 +1,14 @@
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.AssemblyInfoInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.AssemblyInfo.cs
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.csproj.CoreCompileInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\bin\Debug\net8.0\AntColonySimulation.exe
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\bin\Debug\net8.0\AntColonySimulation.deps.json
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\bin\Debug\net8.0\AntColonySimulation.runtimeconfig.json
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\bin\Debug\net8.0\AntColonySimulation.dll
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\bin\Debug\net8.0\AntColonySimulation.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.dll
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\refint\AntColonySimulation.dll
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\AntColonySimulation.genruntimeconfig.cache
+C:\Users\kubal\Desktop\Studia\Semestr 2\Wzorce Projektowe\AntColonySimulation\AntColonySimulation\obj\Debug\net8.0\ref\AntColonySimulation.dll
