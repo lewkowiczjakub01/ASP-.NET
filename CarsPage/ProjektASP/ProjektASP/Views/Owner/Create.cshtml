@@ -1,0 +1,31 @@
+﻿@model Owner
+@{
+	ViewData["Title"] = "Add an Owner";
+}
+
+<h1 class="text-black bg-green">Add an Owner</h1>
+<a asp-action="Index" class="btn btn-secondary">View all Owners</a>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+ 
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Surname"></label>
+        <input type="text" asp-for="Surname" class="form-control" />
+        <span asp-validation-for="Surname" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="DateOfBirth"></label>
+        <input type="date" asp-for="DateOfBirth" class="form-control" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+

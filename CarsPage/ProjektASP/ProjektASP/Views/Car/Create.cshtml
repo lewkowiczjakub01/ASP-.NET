@@ -1,0 +1,49 @@
+﻿@model Car
+@{
+	ViewData["Title"] = "Add an Car";
+}
+
+<h1 class="text-black bg-green">Add a Car</h1>
+<a asp-action="Index" class="btn btn-secondary">View all Cars</a>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+ 
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Mark"></label>
+        <input type="text" asp-for="Mark" class="form-control" />
+        <span asp-validation-for="Mark" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Model"></label>
+        <input type="text" asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="YearOfProduction"></label>
+        <input type="text" asp-for="YearOfProduction" class="form-control" />
+        <span asp-validation-for="YearOfProduction" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="Plate"></label>
+        <input type="text" asp-for="Plate" class="form-control" />
+        <span asp-validation-for="Plate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OwnerId">Owner</label>
+        <select asp-for="OwnerId" asp-items="ViewBag.Owner" class="form-control">
+        </select>
+        @if (ViewData.ModelState.ContainsKey("Plate") && ViewData.ModelState["Plate"].Errors.Any())
+        {
+           var errors = ViewData.ModelState["Plate"].Errors;
+        foreach (var error in errors)
+        {
+            if (error.ErrorMessage == "This plate is already taken")
+            {
+                <div class="alert alert-danger">@error.ErrorMessage</div>
+            }
+        }
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Car>
+@{
+	ViewData["Title"] = "Found Car";
+}
+
+<h1 class="text-black bg-green">Found Car</h1>
+
+<table class="table table-sm table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Owner</th>
+        <th>Mark</th>
+        <th>Model</th>
+        <th>Year of Production</th>
+        <th>Plate</th>
+    </tr>
+    @foreach (Car c in Model)
+    {
+        <tr>
+            <td>@c.Id</td>
+            <td>@c.Owner_R?.Name @c.Owner_R?.Surname</td>
+            <td>@c.Mark</td>
+            <td>@c.Model</td>
+            <td>@c.YearOfProduction</td>
+            <td>@c.Plate</td>
+        </tr>
+    }
+</table>

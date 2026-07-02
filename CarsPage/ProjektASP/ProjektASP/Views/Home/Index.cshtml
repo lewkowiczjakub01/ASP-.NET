@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "LayoutHome";
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <h1 class="display-4">Car Register</h1>
+    <a class="btn btn-primary btn-lg mx-3" asp-area="" asp-controller="Owner" asp-action="Create">Add an Owner</a>
+    <a class="btn btn-primary btn-lg mx-3" asp-area="" asp-controller="Owner" asp-action="Index">Show all Owners</a>
+    <br />
+    <br />
+    <a class="btn btn-primary btn-lg mx-3" asp-area="" asp-controller="Car" asp-action="Create">Add a Car</a>
+    <a class="btn btn-primary btn-lg mx-3" asp-area="" asp-controller="Car" asp-action="Index">Show all Cars</a>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <h1 class="display-8">Find a car by plate</h1>
+    <form asp-controller="Car" asp-action="Search">
+    <p>
+        Title: <input type="text" name="plate" />
+        <input type="submit" value="Find" />
+    </p>
+</form>
+</div>
